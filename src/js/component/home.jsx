@@ -1,4 +1,5 @@
 import React from "react";
+import App from "./contact.jsx";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
